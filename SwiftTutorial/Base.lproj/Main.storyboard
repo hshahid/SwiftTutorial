@@ -37,14 +37,23 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
+                            <constraint firstItem="3vc-ME-nLO" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="3TK-QK-rdf"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="pzc-6Q-nj1" secondAttribute="trailing" id="6rZ-DF-uQ8"/>
                             <constraint firstItem="ctZ-bz-r7H" firstAttribute="top" secondItem="3vc-ME-nLO" secondAttribute="bottom" constant="60" id="77n-n0-vrM"/>
                             <constraint firstItem="pzc-6Q-nj1" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" constant="60" id="AU6-Eg-RIe"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="ctZ-bz-r7H" secondAttribute="trailing" id="LNn-7t-1De"/>
+                            <constraint firstItem="pzc-6Q-nj1" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" constant="12" id="NIR-vN-SBE"/>
                             <constraint firstItem="3vc-ME-nLO" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="NRk-st-4vW"/>
+                            <constraint firstItem="3vc-ME-nLO" firstAttribute="top" secondItem="pzc-6Q-nj1" secondAttribute="bottom" constant="12" id="SzR-6y-EBq"/>
                             <constraint firstItem="3vc-ME-nLO" firstAttribute="top" secondItem="pzc-6Q-nj1" secondAttribute="bottom" constant="60" id="U05-sN-wXe"/>
+                            <constraint firstItem="ctZ-bz-r7H" firstAttribute="top" secondItem="3vc-ME-nLO" secondAttribute="bottom" constant="12" id="ZKh-ZQ-0Vn"/>
                             <constraint firstItem="3vc-ME-nLO" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="Zc6-Tl-SEE"/>
                             <constraint firstItem="pzc-6Q-nj1" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="jEL-bJ-Mg0"/>
+                            <constraint firstItem="pzc-6Q-nj1" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="o6b-MW-CBf"/>
+                            <constraint firstItem="ctZ-bz-r7H" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="tST-zl-RLP"/>
                             <constraint firstItem="pzc-6Q-nj1" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="two-nY-J9o"/>
                             <constraint firstItem="ctZ-bz-r7H" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="vDT-qF-d3z"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="3vc-ME-nLO" secondAttribute="trailing" id="yYZ-LM-tlp"/>
                             <constraint firstItem="ctZ-bz-r7H" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="yta-1P-4OD"/>
                         </constraints>
                     </view>
