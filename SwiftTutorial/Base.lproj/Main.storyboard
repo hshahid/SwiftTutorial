@@ -41,13 +41,17 @@
                             <constraint firstItem="pzc-6Q-nj1" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" constant="60" id="AU6-Eg-RIe"/>
                             <constraint firstItem="3vc-ME-nLO" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="NRk-st-4vW"/>
                             <constraint firstItem="3vc-ME-nLO" firstAttribute="top" secondItem="pzc-6Q-nj1" secondAttribute="bottom" constant="60" id="U05-sN-wXe"/>
+                            <constraint firstItem="3vc-ME-nLO" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="Zc6-Tl-SEE"/>
                             <constraint firstItem="pzc-6Q-nj1" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="jEL-bJ-Mg0"/>
+                            <constraint firstItem="pzc-6Q-nj1" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="two-nY-J9o"/>
                             <constraint firstItem="ctZ-bz-r7H" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="vDT-qF-d3z"/>
+                            <constraint firstItem="ctZ-bz-r7H" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="yta-1P-4OD"/>
                         </constraints>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="129" y="194"/>
         </scene>
     </scenes>
 </document>
