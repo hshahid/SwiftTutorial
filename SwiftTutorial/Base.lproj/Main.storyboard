@@ -57,9 +57,6 @@
                             <constraint firstItem="ctZ-bz-r7H" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="yta-1P-4OD"/>
                         </constraints>
                     </view>
-                    <connections>
-                        <outlet property="NameTextField" destination="3vc-ME-nLO" id="pCa-HX-dgH"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
