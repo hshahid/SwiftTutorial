@@ -16,7 +16,7 @@ class ViewController: UIViewController,  UITextFieldDelegate {
     @IBOutlet weak var mealNameLabel: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
     }
 
     //MARK: Actions
