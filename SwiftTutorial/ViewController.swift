@@ -26,6 +26,9 @@ class ViewController: UIViewController,  UITextFieldDelegate {
     @IBAction func setDefaultLabelText(sender: UIButton) {
         mealNameLabel.text = "Default Text"
     }
+    
+    func textFieldShouldReturn(textField: UITextField) -> Bool
+    func textFieldDidEndEditing(textField: UITextField)
 
 }
 
